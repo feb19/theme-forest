@@ -1,0 +1,19 @@
+{
+	"name": "theme-forest",
+	"displayName": "feb19",
+	"description": "Theme for VSCode",
+	"version": "1.0.0",
+	"publisher": "vscode",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Forest",
+				"uiTheme": "vs-dark",
+				"path": "./themes/forest-color-theme.json"
+			}
+		]
+	}
+}
