@@ -1,9 +1,11 @@
 {
 	"name": "theme-forest",
-	"displayName": "feb19",
+	"displayName": "Forest",
 	"description": "Theme for VSCode",
-	"version": "1.0.0",
-	"publisher": "vscode",
+	"version": "0.1.1",
+  "repository": "https://github.com/feb19/theme-forest",
+	"publisher": "feb19",
+  "license": "MIT",
 	"engines": {
 		"vscode": "*"
 	},
