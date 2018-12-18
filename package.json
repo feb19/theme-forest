@@ -3,9 +3,9 @@
 	"displayName": "Forest",
 	"description": "Theme for VSCode",
 	"version": "0.1.1",
-  "repository": "https://github.com/feb19/theme-forest",
+	"repository": "https://github.com/feb19/theme-forest",
 	"publisher": "feb19",
-  "license": "MIT",
+	"license": "MIT",
 	"engines": {
 		"vscode": "*"
 	},
